@@ -8,7 +8,7 @@ So far, the focus has been on **cleaning, enrichment, and preparing the dataset 
 - Downloaded the Unfallatlas 2024 accident dataset (CSV)
 - Filtered to Bavaria (`state_code = 9`)
 - Renamed columns into English-friendly names (e.g. `accident_uid`, `severity`, `road_condition`)
-- Fixed datatypes (e.g. treating `accident_uid` as text to avoid overflow)
+- Fixed datatypes
 - Built a lookup table for Bavaria’s **7 regions and 94 districts** (German + English names)
 - Merged accident data with the lookup → each row now has district + region names
 - Verified the lookup with official Destatis sources
