@@ -1,5 +1,6 @@
 # Bavaria Traffic Accidents (2024) — SQL Portfolio Project
 *A SQL portfolio project exploring accident patterns in Bavaria using real government data (Unfallatlas 2024).*
+
 This project analyzes 2024 road accidents in Bavaria (Germany) using open government data.  
 So far, the focus has been on **cleaning, enrichment, and preparing the dataset for SQL analysis**.
 
