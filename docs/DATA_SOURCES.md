@@ -19,7 +19,7 @@ Official download portal: [Unfallatlas](https://unfallatlas.statistikportal.de/)
 ---
 
 ## Metadata
-- File: `data/Unfallatlas_metadata.pdf` 
+- File: `data/Unfallatlas_metadata_EN.pdf` 
 - Contains definitions of columns (severity, accident type, lighting conditions, etc.)  
 - Based on official explanations from Destatis  
 
