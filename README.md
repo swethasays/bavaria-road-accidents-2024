@@ -1,33 +1,32 @@
 # Bavaria Traffic Accidents (2024) — SQL Portfolio Project
-This project analyzes 2024 road accidents in Bavaria (Germany) using SQL.  
-It demonstrates a realistic data pipeline: **open data → cleaning (Power Query) → dimensional modeling → SQL insights**.
+This project analyzes 2024 road accidents in Bavaria (Germany) using open government data.  
+So far, the focus has been on **cleaning, enrichment, and preparing the dataset for SQL analysis**.
 
-## Why this project
-- Real public data (Unfallatlas 2024, free under dl-de/by-2-0)
-- Location-aware insights (district + region names)
-- Shows SQL, data cleaning, and reporting skills
+##  Completed so far
+- Downloaded the Unfallatlas 2024 accident dataset (CSV)
+- Filtered to Bavaria (`state_code = 9`)
+- Renamed columns into English-friendly names (e.g. `accident_uid`, `severity`, `road_condition`)
+- Fixed datatypes (e.g. treating `accident_uid` as text to avoid overflow)
+- Built a lookup table for Bavaria’s **7 regions and 94 districts** (German + English names)
+- Merged accident data with the lookup → each row now has district + region names
+- Verified the lookup with official Destatis sources
+- Replace coded values (`severity`, `accident_type`, `lighting_conditions`, etc.) with readable text
 
-## Data
-- Unfallatlas 2024 CSV (Bavaria subset)
-- District/region lookup (from Destatis AGS)
-- See [`docs/DATA_SOURCES.md`](docs/DATA_SOURCES.md) for licensing
+---
 
-## Pipeline
-1. **Cleaning (Power Query)**  
-   - Rename columns, fix datatypes  
-   - Filter Bavaria  
-   - Merge with district lookup  
-   - Add readable labels for severity, accident type, etc.
+## 🔜 Next steps
+- Import the cleaned dataset into SQL
+- Write SQL queries to analyze accident patterns (by district, severity, bicycle involvement, time of day)
 
-2. **SQL schema**  
+---
 
+## 📊 Data
+- Unfallatlas 2024 (Bavaria subset, CSV format)  
+- District/region lookup from Destatis AGS  
+- See [`docs/DATA_SOURCES.md`](docs/DATA_SOURCES.md) for licensing  
 
-3. **Analysis queries**  
+---
 
-
-## Dimensional model
-
-
-## License
+## 📄 License
 - Code: MIT (see `LICENSE`)  
-- Data: dl-de/by-2-0 (attribution required, see `docs/DATA_SOURCES.md`)
+- Data: dl-de/by-2-0 (attribution required)
