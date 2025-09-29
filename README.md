@@ -25,6 +25,7 @@ So far, the focus has been on **cleaning, enrichment, and preparing the dataset 
 ## 📊 Data
 - Unfallatlas 2024 (Bavaria subset, CSV format)  
 - District/region lookup from Destatis AGS
+- See [`docs/DATA_SOURCES.md`](docs/DATA_SOURCES.md) for licensing  
 
 ---
 
