@@ -1,0 +1,97 @@
+region_code,region_name_en,region_name_de,district_code,district_name_de,district_name_en
+1,Upper Bavaria,Oberbayern,11,"Ingolstadt, kreisfreie Stadt",Ingolstadt (Independent City)
+1,Upper Bavaria,Oberbayern,62,"München, kreisfreie Stadt",Munich (Independent City)
+1,Upper Bavaria,Oberbayern,63,"Rosenheim, kreisfreie Stadt",Rosenheim (Independent City)
+1,Upper Bavaria,Oberbayern,71,Altötting,Altötting
+1,Upper Bavaria,Oberbayern,72,Berchtesgadener Land,Berchtesgadener Land
+1,Upper Bavaria,Oberbayern,73,Bad Tölz-Wolfratshausen,Bad Tölz-Wolfratshausen
+1,Upper Bavaria,Oberbayern,74,Dachau,Dachau
+1,Upper Bavaria,Oberbayern,75,Ebersberg,Ebersberg
+1,Upper Bavaria,Oberbayern,76,Eichstätt,Eichstätt
+1,Upper Bavaria,Oberbayern,77,Erding,Erding
+1,Upper Bavaria,Oberbayern,78,Freising,Freising
+1,Upper Bavaria,Oberbayern,79,Fürstenfeldbruck,Fürstenfeldbruck
+1,Upper Bavaria,Oberbayern,80,Garmisch-Partenkirchen,Garmisch-Partenkirchen
+1,Upper Bavaria,Oberbayern,81,Landsberg am Lech,Landsberg am Lech
+1,Upper Bavaria,Oberbayern,82,Miesbach,Miesbach
+1,Upper Bavaria,Oberbayern,83,Mühldorf a.Inn,Mühldorf am Inn
+1,Upper Bavaria,Oberbayern,84,Landkreis München,Munich (District)
+1,Upper Bavaria,Oberbayern,85,Neuburg-Schrobenhausen,Neuburg-Schrobenhausen
+1,Upper Bavaria,Oberbayern,86,Pfaffenhofen a.d.Ilm,Pfaffenhofen an der Ilm
+1,Upper Bavaria,Oberbayern,87,Rosenheim (Landkreis),Rosenheim (District)
+1,Upper Bavaria,Oberbayern,88,Starnberg,Starnberg
+1,Upper Bavaria,Oberbayern,89,Traunstein,Traunstein
+1,Upper Bavaria,Oberbayern,90,Weilheim-Schongau,Weilheim-Schongau
+2,Lower Bavaria,Niederbayern,61,"Landshut, kreisfreie Stadt",Landshut (Independent City)
+2,Lower Bavaria,Niederbayern,62,"Passau, kreisfreie Stadt",Passau (Independent City)
+2,Lower Bavaria,Niederbayern,63,"Straubing, kreisfreie Stadt",Straubing (Independent City)
+2,Lower Bavaria,Niederbayern,71,Deggendorf,Deggendorf
+2,Lower Bavaria,Niederbayern,72,Freyung-Grafenau,Freyung-Grafenau
+2,Lower Bavaria,Niederbayern,73,Kelheim,Kelheim
+2,Lower Bavaria,Niederbayern,74,Landshut (Landkreis),Landshut (District)
+2,Lower Bavaria,Niederbayern,75,Passau (Landkreis),Passau (District)
+2,Lower Bavaria,Niederbayern,76,Regen,Regen
+2,Lower Bavaria,Niederbayern,77,Rottal-Inn,Rottal-Inn
+2,Lower Bavaria,Niederbayern,78,Straubing-Bogen,Straubing-Bogen
+2,Lower Bavaria,Niederbayern,79,Dingolfing-Landau,Dingolfing-Landau
+3,Upper Palatinate,Oberpfalz,61,"Amberg, kreisfreie Stadt",Amberg (Independent City)
+3,Upper Palatinate,Oberpfalz,62,"Regensburg, kreisfreie Stadt",Regensburg (Independent City)
+3,Upper Palatinate,Oberpfalz,63,"Weiden i.d.OPf., kreisfreie Stadt",Weiden in the Upper Palatinate (Independent City)
+3,Upper Palatinate,Oberpfalz,71,Amberg-Sulzbach,Amberg-Sulzbach
+3,Upper Palatinate,Oberpfalz,72,Cham,Cham
+3,Upper Palatinate,Oberpfalz,73,Neumarkt i.d.OPf.,Neumarkt in the Upper Palatinate
+3,Upper Palatinate,Oberpfalz,74,Neustadt a.d.Waldnaab,Neustadt an der Waldnaab
+3,Upper Palatinate,Oberpfalz,75,Regensburg (Landkreis),Regensburg (District)
+3,Upper Palatinate,Oberpfalz,76,Schwandorf,Schwandorf
+3,Upper Palatinate,Oberpfalz,77,Tirschenreuth,Tirschenreuth
+4,Upper Franconia,Oberfranken,61,"Bamberg, kreisfreie Stadt",Bamberg (Independent City)
+4,Upper Franconia,Oberfranken,62,"Bayreuth, kreisfreie Stadt",Bayreuth (Independent City)
+4,Upper Franconia,Oberfranken,63,"Coburg, kreisfreie Stadt",Coburg (Independent City)
+4,Upper Franconia,Oberfranken,64,"Hof, kreisfreie Stadt",Hof (Independent City)
+4,Upper Franconia,Oberfranken,71,Bamberg (Landkreis),Bamberg (District)
+4,Upper Franconia,Oberfranken,72,Bayreuth (Landkreis),Bayreuth (District)
+4,Upper Franconia,Oberfranken,73,Coburg (Landkreis),Coburg (District)
+4,Upper Franconia,Oberfranken,74,Forchheim,Forchheim
+4,Upper Franconia,Oberfranken,75,Hof (Landkreis),Hof (District)
+4,Upper Franconia,Oberfranken,76,Kronach,Kronach
+4,Upper Franconia,Oberfranken,77,Kulmbach,Kulmbach
+4,Upper Franconia,Oberfranken,78,Lichtenfels,Lichtenfels
+4,Upper Franconia,Oberfranken,79,Wunsiedel i.Fichtelgebirge,Wunsiedel im Fichtelgebirge
+5,Middle Franconia,Mittelfranken,61,"Ansbach, kreisfreie Stadt",Ansbach (Independent City)
+5,Middle Franconia,Mittelfranken,62,"Erlangen, kreisfreie Stadt",Erlangen (Independent City)
+5,Middle Franconia,Mittelfranken,63,"Fürth, kreisfreie Stadt",Fürth (Independent City)
+5,Middle Franconia,Mittelfranken,64,"Nürnberg, kreisfreie Stadt",Nuremberg (Independent City)
+5,Middle Franconia,Mittelfranken,65,"Schwabach, kreisfreie Stadt",Schwabach (Independent City)
+5,Middle Franconia,Mittelfranken,71,Ansbach (Landkreis),Ansbach (District)
+5,Middle Franconia,Mittelfranken,72,Erlangen-Höchstadt,Erlangen-Höchstadt
+5,Middle Franconia,Mittelfranken,73,Fürth (Landkreis),Fürth (District)
+5,Middle Franconia,Mittelfranken,74,Nürnberger Land,Nürnberger Land
+5,Middle Franconia,Mittelfranken,75,Neustadt a.d.Aisch-Bad Windsheim,Neustadt an der Aisch-Bad Windsheim
+5,Middle Franconia,Mittelfranken,76,Roth,Roth
+5,Middle Franconia,Mittelfranken,77,Weißenburg-Gunzenhausen,Weißenburg-Gunzenhausen
+6,Lower Franconia,Unterfranken,61,"Aschaffenburg, kreisfreie Stadt",Aschaffenburg (Independent City)
+6,Lower Franconia,Unterfranken,62,"Schweinfurt, kreisfreie Stadt",Schweinfurt (Independent City)
+6,Lower Franconia,Unterfranken,63,"Würzburg, kreisfreie Stadt",Würzburg (Independent City)
+6,Lower Franconia,Unterfranken,71,Aschaffenburg (Landkreis),Aschaffenburg (District)
+6,Lower Franconia,Unterfranken,72,Bad Kissingen,Bad Kissingen
+6,Lower Franconia,Unterfranken,73,Rhön-Grabfeld,Rhön-Grabfeld
+6,Lower Franconia,Unterfranken,74,Haßberge,Haßberge
+6,Lower Franconia,Unterfranken,75,Kitzingen,Kitzingen
+6,Lower Franconia,Unterfranken,76,Miltenberg,Miltenberg
+6,Lower Franconia,Unterfranken,77,Main-Spessart,Main-Spessart
+6,Lower Franconia,Unterfranken,78,Schweinfurt (Landkreis),Schweinfurt (District)
+6,Lower Franconia,Unterfranken,79,Würzburg (Landkreis),Würzburg (District)
+7,Swabia,Schwaben,61,"Augsburg, kreisfreie Stadt",Augsburg (Independent City)
+7,Swabia,Schwaben,62,"Kaufbeuren, kreisfreie Stadt",Kaufbeuren (Independent City)
+7,Swabia,Schwaben,63,"Kempten (Allgäu), kreisfreie Stadt",Kempten (Independent City)
+7,Swabia,Schwaben,64,"Memmingen, kreisfreie Stadt",Memmingen (Independent City)
+7,Swabia,Schwaben,71,Aichach-Friedberg,Aichach-Friedberg
+7,Swabia,Schwaben,72,Augsburg (Landkreis),Augsburg (District)
+7,Swabia,Schwaben,73,Dillingen a.d.Donau,Dillingen an der Donau
+7,Swabia,Schwaben,74,Günzburg,Günzburg
+7,Swabia,Schwaben,75,Neu-Ulm,Neu-Ulm
+7,Swabia,Schwaben,76,Lindau (Bodensee),Lindau (Bodensee)
+7,Swabia,Schwaben,77,Ostallgäu,Ostallgäu
+7,Swabia,Schwaben,78,Unterallgäu,Unterallgäu
+7,Swabia,Schwaben,79,Donau-Ries,Donau-Ries
+7,Swabia,Schwaben,80,Oberallgäu,Oberallgäu
