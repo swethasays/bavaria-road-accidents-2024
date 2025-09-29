@@ -1,4 +1,5 @@
 # Bavaria Traffic Accidents (2024) — SQL Portfolio Project
+*A SQL portfolio project exploring accident patterns in Bavaria using real government data (Unfallatlas 2024).*
 This project analyzes 2024 road accidents in Bavaria (Germany) using open government data.  
 So far, the focus has been on **cleaning, enrichment, and preparing the dataset for SQL analysis**.
 
@@ -10,7 +11,7 @@ So far, the focus has been on **cleaning, enrichment, and preparing the dataset 
 - Built a lookup table for Bavaria’s **7 regions and 94 districts** (German + English names)
 - Merged accident data with the lookup → each row now has district + region names
 - Verified the lookup with official Destatis sources
-- Replace coded values (`severity`, `accident_type`, `lighting_conditions`, etc.) with readable text
+- Replaced coded values (severity, accident_type, lighting_conditions, etc.) with human-readable text
 
 ---
 
