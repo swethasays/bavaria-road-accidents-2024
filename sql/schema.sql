@@ -8,6 +8,8 @@ CREATE TABLE dim_district (
     PRIMARY KEY (region_code,district_code)
 );
 
+
+
 DROP TABLE IF EXISTS fact_accident;
 
 CREATE TABLE fact_accident (
