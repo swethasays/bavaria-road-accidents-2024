@@ -1,0 +1,7 @@
+category,condition,accidents,pct_of_category
+Lighting,Daylight,35747,76.96
+Lighting,Darkness,8303,17.88
+Lighting,Twilight,2396,5.16
+Road,Dry,36053,77.62
+Road,Wet / damp / slippery,9494,20.44
+Road,Slippery (winter),899,1.94

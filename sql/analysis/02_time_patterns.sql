@@ -1,4 +1,3 @@
--- 02_time_patterns.sql
 -- Time-based patterns for Bavaria Accident Atlas 2024
 
 -- =============================================================================
