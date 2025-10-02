@@ -34,7 +34,7 @@ The final dashboard is designed to be clear enough for decision makers and detai
 
 ## 🔎 Explore the Project
 
-- **SQL Analysis** → See [`/sql/analysis`](sql/analysis) for query scripts covering trends, time patterns, severity, participants, and regions.  
+- **SQL Analysis** → See [`/sql/analysis`](sql/analysis) for query scripts covering trends, time patterns, severity, participants, and regions and SQL results see [`sql/analysis/Results`](sql/analysis/Results).  
 - **Power BI Dashboard** → Explore the interactive report (`/powerbi/Bavaria_Accidents_Report.pbix`).  
 - **Quick View (Screenshots)** → For a fast overview without opening the `.pbix`, see dashboard screenshots in [`/docs/screenshots`](docs/screenshots).  
 
