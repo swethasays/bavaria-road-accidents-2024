@@ -12,12 +12,8 @@ The final dashboard is designed to be clear enough for decision makers and detai
 ---
 
 ## Pipeline (at a glance)
-	1.	Data Collection → Unfallatlas 2024 (Bavaria), Destatis district lookups
-	2.	Data Preparation → Cleaning, enrichment, unpivoting participants (Power Query)
-	3.	Analysis (SQL) → Trends, time patterns, severity factors, participants, regions
-	4.	Modeling (Power BI) → Star-schema with Fact & Dimension tables
-	5.	Visualization (Power BI) → Interactive dashboards with KPIs, maps, and heatmaps
-	6.	Insights → Hotspots, rush-hour peaks, severity under conditions, participant risks
+
+![Data Pipeline](docs/pipeline.png)
 
 ---
 
