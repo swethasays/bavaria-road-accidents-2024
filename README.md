@@ -1,11 +1,10 @@
 # Bavaria Traffic Accidents (2024) — SQL / Power BI Portfolio Project
 *A full-stack data analysis project exploring accident patterns in Bavaria using open government data (Unfallatlas 2024).*
-
 This project takes the 2024 Bavaria accident dataset and turns it into a structured SQL + Power BI analysis pipeline.
 It demonstrates end-to-end skills in:
-	•	Data engineering (cleaning, enrichment, modeling)
-	•	SQL analysis (querying patterns by time, region, severity, and participants)
-	•	Data visualization (interactive Power BI dashboards for insights)
+	• Data engineering (cleaning, enrichment, modeling)
+	• SQL analysis (querying patterns by time, region, severity, and participants)
+	• Data visualization (interactive Power BI dashboards for insights)
 
 The final dashboard is designed to be clear enough for decision makers and detailed enough for analysts.
 
