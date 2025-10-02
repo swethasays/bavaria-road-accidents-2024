@@ -13,7 +13,7 @@ The final dashboard is designed to be clear enough for decision makers and detai
 
 ## Pipeline (at a glance)
 
-![Data Pipeline](docs/pipeline.png)
+![Data Pipeline](docs/Pipeline.png)
 
 ---
 
