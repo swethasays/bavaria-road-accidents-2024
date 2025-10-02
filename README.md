@@ -1,27 +1,34 @@
-# Bavaria Traffic Accidents (2024) — SQL Portfolio Project
-*A SQL portfolio project exploring accident patterns in Bavaria using real government data (Unfallatlas 2024).*
+# Bavaria Traffic Accidents (2024) — SQL / Power BI Portfolio Project
+*A full-stack data analysis project exploring accident patterns in Bavaria using open government data (Unfallatlas 2024).*
 
-This project analyzes 2024 road accidents in Bavaria (Germany) using open government data.  
-So far, the focus has been on **cleaning, enrichment, and preparing the dataset for SQL analysis**.
+This project takes the 2024 Bavaria accident dataset and turns it into a structured SQL + Power BI analysis pipeline.
+It demonstrates end-to-end skills in:
+	•	Data engineering (cleaning, enrichment, modeling)
+	•	SQL analysis (querying patterns by time, region, severity, and participants)
+	•	Data visualization (interactive Power BI dashboards for insights)
 
-##  Completed so far
-- Downloaded the Unfallatlas 2024 accident dataset (CSV)
-- Filtered to Bavaria (`state_code = 9`)
-- Renamed columns into English-friendly names (e.g. `accident_uid`, `severity`, `road_condition`)
-- Fixed datatypes
-- Built a lookup table for Bavaria’s **7 regions and 94 districts** (German + English names)
-- Merged accident data with the lookup → each row now has district + region names
-- Verified the lookup with official Destatis sources
-- Replaced coded values (severity, accident_type, lighting_conditions, etc.) with human-readable text
+The final dashboard is designed to be clear enough for decision makers and detailed enough for analysts.
 
 ---
 
-## 🔜 Next steps
-- Import the cleaned dataset into SQL
-- Write SQL queries to analyze accident patterns (by district, severity, bicycle involvement, time of day)
+## Pipeline (at a glance)
+	1.	Data Collection → Unfallatlas 2024 (Bavaria), Destatis district lookups
+	2.	Data Preparation → Cleaning, enrichment, unpivoting participants (Power Query)
+	3.	Analysis (SQL) → Trends, time patterns, severity factors, participants, regions
+	4.	Modeling (Power BI) → Star-schema with Fact & Dimension tables
+	5.	Visualization (Power BI) → Interactive dashboards with KPIs, maps, and heatmaps
+	6.	Insights → Hotspots, rush-hour peaks, severity under conditions, participant risks
 
 ---
 
+## Key Findings
+	•	🚗 Cars dominate, but bicycles form a significant share in urban areas
+	•	⏰ Rush hours (7–9 & 16–19) drive weekday accidents
+	•	🌍 Upper Bavaria (esp. Munich) is the hotspot region
+	•	🌙 Accidents in darkness/slippery roads have higher severity
+	•	📉 Clear seasonality: summer peaks, winter lows
+  
+---
 ## 📊 Data
 - Unfallatlas 2024 (Bavaria subset, CSV format)  
 - District/region lookup from Destatis AGS
