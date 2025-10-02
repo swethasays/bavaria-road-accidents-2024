@@ -18,11 +18,11 @@ The final dashboard is designed to be clear enough for decision makers and detai
 ---
 
 ## Key Findings
-	•	🚗 Cars dominate, but bicycles form a significant share in urban areas
-	•	⏰ Rush hours (7–9 & 16–19) drive weekday accidents
-	•	🌍 Upper Bavaria (esp. Munich) is the hotspot region
-	•	🌙 Accidents in darkness/slippery roads have higher severity
-	•	📉 Clear seasonality: summer peaks, winter lows
+- 🚗 Cars dominate, but bicycles form a significant share in urban areas
+- ⏰ Rush hours (7–9 & 16–19) drive weekday accidents
+- 🌍 Upper Bavaria (esp. Munich) is the hotspot region
+- 🌙 Accidents in darkness/slippery roads have higher severity
+- 📉 Clear seasonality: summer peaks, winter lows
   
 ---
 ## 📊 Data
